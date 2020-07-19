@@ -1,0 +1,14 @@
+
+*.RData
+*.xlsx
+*.cpg
+*.dbf
+*.prj
+*.qpj
+*.shp
+*.shx
+*.csv
+macrocorrupcion.R
+*.eps
+*.svg
+*.png
